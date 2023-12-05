@@ -1,3 +1,7 @@
+## Changes in 2.29.2
+ * Revert "Fix #783 Don't show button if --quickjump not present",
+   which broke quickjump functionality.
+
 ## Changes in 2.29.1
  * Fix build on GHC 9.2
 
