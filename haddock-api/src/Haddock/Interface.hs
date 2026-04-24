@@ -303,6 +303,7 @@ plugin verbosity flags instIfaceMap ifaceMapRef moduleSetRef =
           }
         , paArguments = []
         }
+      , spModuleName = Nothing
       }
 
 processModule1
